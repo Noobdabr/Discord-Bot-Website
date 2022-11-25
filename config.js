@@ -5,10 +5,10 @@ import { MdAddModerator } from "react-icons/md";
 import { SiProbot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "Hyper Bot",
+  name: "Genesis Bot",
   //BotName
   inviteLink:
-    "https://discord.com/api/oauth2/authorize?client_id=1044589558391648276&permissions=8&scope=bot",
+    "https://discord.com/api/oauth2/authorize?client_id=1045634749017899028&permissions=8&scope=bot",
   //BotInvite Link
   Features: [
     {
